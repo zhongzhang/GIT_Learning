@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test in master
+=======
+echo in private
+>>>>>>> private
